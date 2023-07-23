@@ -27,6 +27,8 @@ class _ContactUsPageState extends State<ContactUsPage> {
           isCircularIcon: true,
           email: 'dksdev.com@gmail.com',
           emailText: 'Send email',
+          websiteText: 'Dks Dev.',
+          website: 'https://www.dksdev.com',
           textStyle: TextStyle(color: Colors.white),
           cardColor: Colors.black,
         ),
