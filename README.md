@@ -1,22 +1,8 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+## DksContactUs
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+The most common functionality added in any commercial app is the Developer's contact details!!
+So this package helps the developers to simply add their details.
 
 ## Getting started
 
@@ -25,12 +11,44 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Now you can add customizedable fonts for company/individual name, tagline & text along with the custom color for divider and font weights.
 
+
+#Developers can add following details:
+Company Name
+Phone Number
+Website
+Email ID
+Twitter Handle
+Instagram ID
+Facebook ID
+Linkedin URL
+Github UserName
+
+
+Best feature is that, when the user clicks on any detail, respective app/web page will be opened.
+
+Now you can also add the contact details as a part of your bottomNavigationBar
+
+
+
+Example Code for creating an entire page
+
+
+ ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss0.jpg)
+
+
+This is the appearance of default dialog style is
 ```dart
-const like = 'sample';
+dialogStyle: 'style1' 
 ```
+ ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss1.jpg)
+
+Another dialog style is
+```dart
+dialogStyle: 'style2'
+```
+ ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss2.jpg)
 
 ## Additional information
 
