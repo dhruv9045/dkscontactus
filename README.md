@@ -1,7 +1,14 @@
 
+
 ## DksContactUs
+
 The most common functionality added in any commercial app is the Developer's contact details!!
 So this package helps the developers to simply add their details.
+
+## Help Maintenance
+
+I've been maintaining quite many repos these days and burning out slowly. If you could help me cheer up, buying me a cup of coffee will make my life really happy and get much energy out of it.
+![simpletext](https://bmc.link/dksdev)
 
 ## Getting started
 
