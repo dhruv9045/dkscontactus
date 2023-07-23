@@ -1,6 +1,6 @@
 name: dkscontactus
 description: This package gives you fast and simple way to include contact us page in your app.
-version: 0.0.1
+version: 0.0.1+1
 homepage: https://github.com/dhruv9045/dkscontactus
 
 environment:
