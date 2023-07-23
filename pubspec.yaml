@@ -1,7 +1,7 @@
 name: dkscontactus
-description: A new Flutter package project.
+description: This package gives you fast and simple way to include contact us page in your app.
 version: 0.0.1
-homepage:
+homepage: https://github.com/dhruv9045/dkscontactus
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
