@@ -66,25 +66,25 @@ Just change the code like below to achive circular icons
 ```dart
 isCircularIcon: true
 ```
-<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss0.png" alt="How example looks" width="300" height="540">
+<img src="https://raw.githubusercontent.com/dhruv9045/dkscontactus/main/screenshots/ss0.png" alt="How example looks" width="300" height="540">
 <br>
 To achive square icon, just follow below code
 ```dart
 isCircularIcon: false
 ```
-<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss4.png" alt="How example looks" width="300" height="540">
+<img src="https://raw.githubusercontent.com/dhruv9045/dkscontactus/main/screenshots/ss4.png" alt="How example looks" width="300" height="540">
 <br>
 #Dialog
 Now we have 2 different styles of dialog one is vertical 'style1' this one is also a default style too and other is horizontal 'style2' you just need to change 'dialogStyle' as shown below
 ```dart
 dialogStyle: 'style1' 
 ```
-<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss1.png" alt="How example looks" width="300" height="540">
+<img src="https://raw.githubusercontent.com/dhruv9045/dkscontactus/main/screenshots/ss1.png" alt="How example looks" width="300" height="540">
 <br>
 Another dialog style is
 ```dart
 dialogStyle: 'style2'
 ```
-<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss2.png" alt="How example looks" width="300" height="540">
+<img src="https://raw.githubusercontent.com/dhruv9045/dkscontactus/main/screenshots/ss2.png" alt="How example looks" width="300" height="540">
 
 
