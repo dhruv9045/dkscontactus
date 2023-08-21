@@ -19,7 +19,7 @@ Example: Add the module to your project pubspec.yaml:
 ... 
   dependencies:
   ...
-    dkscontactus: ^0.0.1+3
+    dkscontactus: ^0.0.1+4
 ...
 ```
 And install it using flutter packages get on your project folder. After that, just import the module and use it:
@@ -66,24 +66,25 @@ Just change the code like below to achive circular icons
 ```dart
 isCircularIcon: true
 ```
- ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss0.png)
+<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss0.png" alt="How example looks" width="300" height="540">
+<br>
 To achive square icon, just follow below code
 ```dart
 isCircularIcon: false
 ```
- ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss4.png)
-
+<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss4.png" alt="How example looks" width="300" height="540">
+<br>
 #Dialog
 Now we have 2 different styles of dialog one is vertical 'style1' this one is also a default style too and other is horizontal 'style2' you just need to change 'dialogStyle' as shown below
 ```dart
 dialogStyle: 'style1' 
 ```
- ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss1.png)
-
+<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss1.png" alt="How example looks" width="300" height="540">
+<br>
 Another dialog style is
 ```dart
 dialogStyle: 'style2'
 ```
- ![simple text](https://github.com/dhruv9045/dkscontactus/blob/main/screenshots/ss2.png)
+<img src="https://raw.githubusercontent.com/dhruv9045/dksfunnytext/main/screenshots/ss2.png" alt="How example looks" width="300" height="540">
 
 

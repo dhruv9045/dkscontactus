@@ -1,6 +1,9 @@
 
+## 0.0.1+4
+DksContactUs Image url issue resolved
+
 ## 0.0.1+3
-DksContactUs fix url issue
+DksContactUs minor update
 
 ## 0.0.1+2
 DksContactUs fix url issue
